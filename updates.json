@@ -6,19 +6,19 @@
         "description":""
     },
     "windows-console-x64":{
-        "version":"1.40.16",
+        "version":"1.4.1",
         "timestamp":1650986300,
         "path":"https://raw.githubusercontent.com/slav-libx/update/refs/heads/main/windows/cuapp.zip",
         "description":""
     },
     "linux-console-x64":{
-        "version":"1.40.11",
+        "version":"1.4.1",
         "timestamp":1667266800,
         "path":"https://raw.githubusercontent.com/slav-libx/update/refs/heads/main/linux/cuapp",
         "description":""
     },
     "macos-desktop-x64":{
-        "version":"1.40.11",
+        "version":"1.4.1",
         "timestamp":1667266800,
         "path":"https://raw.githubusercontent.com/slav-libx/update/refs/heads/main/macos/uapp.pkg",
         "description":""
