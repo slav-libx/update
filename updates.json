@@ -14,7 +14,7 @@
     "linux-console-x64":{
         "version":"1.4.1",
         "timestamp":1667266800,
-        "path":"https://raw.githubusercontent.com/slav-libx/update/refs/heads/main/linux/cuapp",
+        "path":"https://raw.githubusercontent.com/slav-libx/update/refs/heads/main/linux/cuapp.zip",
         "description":""
     },
     "macos-desktop-x64":{
